@@ -1,0 +1,62 @@
+h1,h3,h5{
+	text-align:center;
+	padding:0px;
+	line-height: 0px;
+	font-family: sans-serif;
+
+}
+.box-0{
+	border-width: 10px;
+	border-color:grey;
+	border-style:solid;
+	padding:20px;
+	background-color: grey;
+	border-radius: 40px;
+	color:navy;
+}
+.box-1{
+	border: black,solid;
+	padding:20px;
+	color:navy;
+}
+body{
+	background-color: white;
+	border-color:black;
+	border-width: 2px;
+	border-style:solid;
+}
+a{
+	text-decoration: none;
+	font-family:inherit;
+	color:purple;
+}
+a:hover{
+	color:blue;
+	font-size:20px;
+}
+a:active{
+	color:green;
+	font-size:20px;
+}
+a:visited{
+	color:red;
+}
+.box-1{
+	background-color:lightgrey;
+	border-width: 10px;
+	border-color:lightgrey;
+	border-radius:40px;
+	padding:40px;
+	margin:0px;
+}
+p{
+	color:navy;
+}
+.box-3{
+	float:left;
+	width:70%;
+}
+.box-4{
+	float:right;
+	width:26%;
+}
